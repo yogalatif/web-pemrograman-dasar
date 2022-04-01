@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400;500;600;700&display=swap');
+body{
+    font-family: 'Red Hat Mono', monospace;
+}
+
+h1{
+    color: aqua;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: blueviolet;
+}
+.main{
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+    background-color: bisque;
+}
+.ig {
+    height: 100px;
+}
+.gallery{
+    border: 3px solid;
+    margin: 50px;
+    padding: 20px;
+    display: block;
+    float: left;
+}
+main {
+    display: inline-block;
+}
+*{
+    box-sizing: border-box;
+}
